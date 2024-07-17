@@ -36,10 +36,11 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 </div>
+
 ---
     
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Student in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin.
 - :telescope: I’m a student in Software Engineering at IFRI(Computer Research and Formation Institue) learning frontend and backend for building web applications.
 
 - :seedling: Exploring Cybersecurity universe and hacking.
