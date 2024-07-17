@@ -47,7 +47,7 @@ I am a Student in Software Engineering <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I already playing CTF or build amazing websites or webapps.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-adegoke-9b7029257/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ulrichadegoke-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-adegoke-9b7029257/)
 
 ---
 
