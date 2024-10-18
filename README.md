@@ -10,7 +10,7 @@ I'm a student in 3rd year of Software engineering at IFRI on Benin
 *   ✉️  You can contact me at [ulrichadegoke@gmail.com](mailto:ulrichadegoke@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Exo&color=blue&size=30&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer,;Cybersecurity+Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher)](https://git.io/typing-svg)
 
 ### Skills
 <p align="left">
