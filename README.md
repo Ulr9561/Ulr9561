@@ -14,7 +14,7 @@ I'm a student in 3rd year of Software engineering at IFRI on Benin
 
 <div align="center" dir="auto">
     <div class="markdown-heading" dir="auto">
-    <span>Languages and Framewoks</span>
+   <p>Languages and Framewoks</p>
         <p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/efe914f77a89ea3f5c7fda384a63aa45d41191518a24b39ad108870033bb23a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c626f6f7473747261702c7461696c77696e642c707974686f6e2c6e6f64656a732c6d6f6e676f64622c657870726573736a732c7675656a732c666c61736b2c666173746170692c646a616e676f2c6a6176612c6370702c747970657363726970742c64656e6f2c73657175656c697a652c706f737467726573716c2c646f636b65722c6e6578746a732c6e6573746a732c656c656374726f6e2c72656163742c706f73746d616e2c7673636f6465" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,mongodb,expressjs,java,cpp,typescript,postgresql,docker,react,postman,vscode" style="max-width: 100%;"></a></p>
     </div>
 </div>
