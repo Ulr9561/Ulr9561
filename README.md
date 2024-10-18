@@ -1,17 +1,3 @@
-<!--
-**Ulr9561/Ulr9561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -24,7 +10,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -33,30 +19,23 @@ Here are some ideas to get you started:
 </div>
 
 ---
-    
+
 ### :man_technologist: About Me :
-I am a Student in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin.
-- :telescope: I’m a student in Software Engineering at IFRI(Computer Research and Formation Institue) learning frontend and backend for building web applications.
+I am a Software Engineering student from Benin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+- 🌱 I’m studying at IFRI (Institut de Formation et de Recherche en Informatique), focusing on both frontend and backend development to build web applications.  
+- 🔍 Currently exploring the world of **Cybersecurity** and hacking.  
+- ⚡ In my free time, I enjoy participating in CTFs and building amazing websites and web apps.  
 
-- :seedling: Exploring Cybersecurity universe and hacking.
-
-- :zap: In my free time, I already playing CTF or build amazing websites or webapps.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ulrichadegoke-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-adegoke-9b7029257/)
+📫 Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-ulrichadegoke-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-adegoke-9b7029257/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
