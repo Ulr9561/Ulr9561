@@ -15,7 +15,7 @@ I'm a student in 3rd year of Software engineering at IFRI on Benin
 ## Languages & Frameworks
 <div align="center" dir="auto">
     <div class="markdown-heading" dir="auto">
-        <p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img  alt="My Skills" style="max-width: 100%;"></a></p>
+        <p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"  alt="My Skills" style="max-width: 100%;"></a></p>
     </div>
 </div>
 
