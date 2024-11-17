@@ -33,6 +33,8 @@ I'm a student in 3rd year of Software Engineering at IFRI, Benin
     <a href="https://github.com/Ulr9561" align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulr9561&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
     </a>
-    <iframe src="https://hackerrank-badge.herokuapp.com/Ulr9561" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+    <a href="https://www.hackerrank.com/Ulr9561">
+        <img src="https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&style=flat-square" alt="HackerRank Profile" />
+    </a>
 </div>
 
