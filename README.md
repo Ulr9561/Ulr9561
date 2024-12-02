@@ -9,6 +9,9 @@ I'm a student in 3rd year of Software Engineering at IFRI, Benin
 - 🤝 I'm open to collaborating on interesting projects
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Exo&color=blue&size=30&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer,;Cybersecurity+Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher)](https://git.io/typing-svg)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ulr9561" alt="Profile view counter on GitHub" />
+</div>
 
 ## Languages & Frameworks
 <div align="center">
