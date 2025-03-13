@@ -19,9 +19,9 @@ I'm a student in 3rd year of Software Engineering at IFRI, Benin
         <a href="https://skillicons.dev" rel="nofollow">
             <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,php,laravel,mysql,mongodb,cpp,c,java,git,nodejs,express,vscode,visualstudio,postman,npm" alt="My Skills" style="max-width: 100%;"/>
         </a>
+        <img src="https://user-badge.committers.top/benin/Ulr9561" alt="My Skills" style="max-width: 100%;"/>
+         (https://user-badge.committers.top/benin/Ulr9561.svg)](https://user-badge.committers.top/benin/Ulr9561)
     </p>
-
-    [![committers.top badge](https://user-badge.committers.top/benin/USERNAME.svg)](https://user-badge.committers.top/benin/USERNAME)
 </div>
 
 ## Badges
