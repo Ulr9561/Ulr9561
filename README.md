@@ -20,6 +20,8 @@ I'm a student in 3rd year of Software Engineering at IFRI, Benin
             <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,php,laravel,mysql,mongodb,cpp,c,java,git,nodejs,express,vscode,visualstudio,postman,npm" alt="My Skills" style="max-width: 100%;"/>
         </a>
     </p>
+
+    [![committers.top badge](https://user-badge.committers.top/benin/USERNAME.svg)](https://user-badge.committers.top/benin/USERNAME)
 </div>
 
 ## Badges
