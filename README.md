@@ -17,7 +17,7 @@ I'm a student in 3rd year of Software Engineering at IFRI, Benin
 <div align="center">
     <p>
         <a href="https://skillicons.dev" rel="nofollow">
-            <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,php,laravel,mysql,mongodb,cpp,c,java,git,nodejs,express,vscode,visualstudio,postman,npm" alt="My Skills" style="max-width: 100%;"/>
+            <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,php,laravel,mysql,mongodb,cpp,c,java,git,nodejs,express,nestjs,vscode,visualstudio,postman,npm" alt="My Skills" style="max-width: 100%;"/>
         </a>
     </p>
 </div>
